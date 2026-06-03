@@ -521,5 +521,6 @@ Completion checks
 
 ---
 
-*PAUL Framework v0.4+ | 26 commands | Last updated: 2026-01-29*
+*PAUL Framework v1.4 · Chris AI Systems · chrisai.cv/skool*
+*23 commands | 14 workflows | 13 templates*
 </reference>
